@@ -14,6 +14,6 @@ Team ID : CH2-PS312
 |   [Dandy Royyan Firdaus](https://github.com/INDandy)    |  A256B4KY0981  |  Mobile Development | Universitas Muhammadiyah Cirebon |
 
 # Project Documentation
-[Machine Learning](https://github.com/Loka-Jamu/lokajamu-ml)
-[Cloud Computing](https://github.com/Loka-Jamu/lokajamu-backend)
-[Mobile Development](https://github.com/Loka-Jamu/lokajamu-frontend)
+- [Machine Learning](https://github.com/Loka-Jamu/lokajamu-ml)
+- [Cloud Computing](https://github.com/Loka-Jamu/lokajamu-backend)
+- [Mobile Development](https://github.com/Loka-Jamu/lokajamu-frontend)
